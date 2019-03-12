@@ -1,0 +1,118 @@
+/* NAVBAR */
+body
+{
+    cursor: url("../img/iconOff.png"), pointer;
+}
+
+.black
+{
+    background-color: black;
+}
+
+.yellow
+{
+    color: #e5cf50;
+}
+
+nav
+{
+    height: 100%;
+    width: 85vh;
+    border-bottom:  1px solid #e5cf50;  
+}
+
+.nav-link
+{
+    color: #e5cf50;
+}
+/* PAGE1 */
+.triumvirateTitle
+{
+    color: #e5cf50;
+    margin-top: 50px;
+    
+}
+.triumvirateImage
+{
+    height:100%;
+    width: 100%;   
+}
+
+.bordel
+{
+    border-left: 1px solid #e5cf50;
+    border-right: 1px solid #e5cf50;   
+}
+/* PAGES NIHILUS/SION/TRAYA */
+p
+{
+    color: #e5cf50;
+}
+
+h2
+{
+    color: #e5cf50;
+    text-decoration: underline;
+}
+
+.image
+{
+    height: 100%x;
+    width: 100%;
+    border: 1px solid #e5cf50;
+}
+/* CONTACT */
+
+
+.contact
+{
+    background: url("../img/contactImage.jpg") center center no-repeat; 
+    background-size:cover ;
+    
+}
+
+.form-control 
+{
+    border-radius: 0%;
+    opacity: 1;
+    border: 1px solid #e5cf50;
+    background-color: transparent;
+}
+
+.button 
+{
+    border-radius: 0%;
+    background-color: #e5cf50;
+    color: black;
+    border: 0px;
+    border-radius: 5%;
+    height: 35px;
+    width: 100px;
+    margin-top: 5px;
+    cursor: url("../img/iconOn.png"), pointer !important;    
+}
+
+img 
+{
+    cursor: url("../img/iconOn.png"), pointer;
+}
+
+a:link 
+{
+    cursor: url("../img/iconOn.png"), pointer;
+}
+
+a:hover{
+    color:red;
+}
+
+.pForm
+{
+    padding:0; 
+}
+
+.formulaire
+{
+    margin-top: 200px;
+}
+
